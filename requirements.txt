@@ -6,4 +6,5 @@ flask
 pypdf
 python-dotenv
 ipykernel
+langchain_pinecone
 -e .
