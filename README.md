@@ -2,14 +2,14 @@
 
 ## Steps to run the project
 
-'''bash
+```bash
 conda create -p venv python=3.8 -y
-'''
+```
 
-'''bash
+```bash
 conda activate venv/
-'''
+```
 
-'''bash
+```bash
 pip install -r requirements.txt
-'''
+```
