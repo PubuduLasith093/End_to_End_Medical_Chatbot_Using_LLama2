@@ -1,5 +1,5 @@
 from src.helper import load_pdf, text_split, download_hugging_face_embeddings
-from langchain.vectorstores import Pinecone
+#from langchain.vectorstores import Pinecone
 import pinecone
 from dotenv import load_dotenv
 from pinecone import Pinecone, ServerlessSpec
